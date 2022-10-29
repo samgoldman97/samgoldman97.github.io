@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a currently a PhD Candidate in [Computational and Systems
+I am currently a PhD Candidate in [Computational and Systems
 Biology](https://csbphd.mit.edu/welcome-mit-computational-and-systems-biology-phd-program-csb)
-at MIT supported by the Takeda AI for Helathcare Fellowship. As [Professor
+at MIT supported by the Takeda AI for Healthcare Fellowship. As [Professor
 Connor Coley's](https://coley.mit.edu/) first graduate student, I broadly seek
 to build AI-based technologies for molecular discovery and design.  I am now
 especially interested in computational methods to find novel and
@@ -24,7 +24,7 @@ previously the Co-President of the [MIT Biotechnology
 Group](https://biotech.mit.edu/) (MBG), MIT's premier connection to the biotech
 ecosystem. During that same time, I co-founded and subsequently managed a
 student-led, zero-equity  accelerator [Nucleate
-Eco](https://nucleate.xyz/activator/) (FKA Activate Eco) for biotechnologies
+Eco](https://nucleate.xyz/activator/) (previously Activate Eco) for biotechnologies
 specifically addressing sustainability challenges. 
 <!--In my tenure, Nucleate Eco
 enabled 15 new startups with technologies drawn from universities such as
@@ -37,9 +37,9 @@ Philippe Cluzel. I also spent a brief stint as a summer investment fellow at
 [Activant Capital](https://www.activantcapital.com/), where I helped dilligence 
 agtech and supply chain investment opportunities.
 
-Outside of work, I enjoy running, eating ice cream, and reading fiction. In a previous
+Outside of work, I enjoy running, eating ice cream, and reading fiction (fantasy/sci-fi). In a previous
 life, I was an [NCAA Division I Wrestler at
-Harvard](https://gocrimson.com/news/2019/6/27/6_27_2019_524) and still cheering for the Crimson.
+Harvard](https://gocrimson.com/news/2019/6/27/6_27_2019_524) and still cheer for the Crimson.
 
 I'm always happy to discuss new ideas, potential opportunites, and my thoughts
 on the hopes (and false promises) of machine learning in biochemistry. You can
