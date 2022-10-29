@@ -13,9 +13,8 @@ Biology](https://csbphd.mit.edu/welcome-mit-computational-and-systems-biology-ph
 at MIT supported by the Takeda AI for Helathcare Fellowship. As [Professor
 Connor Coley's](https://coley.mit.edu/) first graduate student, I broadly seek
 to build AI-based technologies for molecular discovery and design.  I am now
-especially interested in developing computational tools to find novel and
-disease relevant metabolites from high throughput mass spectrometry-based
-metabolomics.
+especially interested in computational methods to find novel and
+disease relevant metabolites from mass spectrometry-based metabolomics.
 
 <!--During my senior year, I was also exposed to recent deep learning advances
 in natural language processes and worked briefly with Professor Debora Marks to
