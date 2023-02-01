@@ -247,6 +247,11 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  - scope:
+      path: google7c16fd31dd00e48a.html 
+    values: 
+      sitemap: false
+
 
 # Sass/SCSS
 sass:
@@ -312,3 +317,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
