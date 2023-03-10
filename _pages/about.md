@@ -16,10 +16,10 @@ to build AI-based technologies for molecular discovery and design.  I am now
 especially interested in computational methods to find novel and
 disease relevant metabolites from mass spectrometry-based metabolomics.
 
-I am interested in biotechnology entrepreneurship both for healthcare and the
-environment, which I am exploring as a part-time fellow at [MPM
-Capital](https://mpmcapital.com/). I was previously the Co-President of the
-[MIT Biotechnology Group](https://biotech.mit.edu/) (MBG), MIT's premier
+I am interested in biotechnology entrepreneurship and investing for both
+healthcare and the environment, which I am exploring as a part-time fellow at
+[MPM Capital](https://mpmcapital.com/). I was previously the Co-President of
+the [MIT Biotechnology Group](https://biotech.mit.edu/) (MBG), MIT's premier
 connection to the biotech ecosystem. During that same time, I co-founded and
 subsequently managed a student-led, zero-equity  accelerator [Nucleate
 Eco](https://nucleate.xyz/activator/) (previously Activate Eco) for
