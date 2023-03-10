@@ -16,16 +16,15 @@ to build AI-based technologies for molecular discovery and design.  I am now
 especially interested in computational methods to find novel and
 disease relevant metabolites from mass spectrometry-based metabolomics.
 
-<!--During my senior year, I was also exposed to recent deep learning advances
-in natural language processes and worked briefly with Professor Debora Marks to
-apply these tools to RNA codon optimization. --> I am interested in
-biotechnology entrepreneurship both for healthcare and the environment. I was
-previously the Co-President of the [MIT Biotechnology
-Group](https://biotech.mit.edu/) (MBG), MIT's premier connection to the biotech
-ecosystem. During that same time, I co-founded and subsequently managed a
-student-led, zero-equity  accelerator [Nucleate
-Eco](https://nucleate.xyz/activator/) (previously Activate Eco) for biotechnologies
-specifically addressing sustainability challenges. 
+I am interested in biotechnology entrepreneurship both for healthcare and the
+environment, which I am exploring as a part-time fellow at [MPM
+Capital](https://mpmcapital.com/). I was previously the Co-President of the
+[MIT Biotechnology Group](https://biotech.mit.edu/) (MBG), MIT's premier
+connection to the biotech ecosystem. During that same time, I co-founded and
+subsequently managed a student-led, zero-equity  accelerator [Nucleate
+Eco](https://nucleate.xyz/activator/) (previously Activate Eco) for
+biotechnologies specifically addressing sustainability challenges. 
+
 <!--In my tenure, Nucleate Eco
 enabled 15 new startups with technologies drawn from universities such as
 Harvard, MIT, Tufts, UC Berkeley, Stanford, and the Salk Institute.-->
@@ -42,5 +41,5 @@ life, I was an [NCAA Division I Wrestler at
 Harvard](https://gocrimson.com/news/2019/6/27/6_27_2019_524) and still cheer for the Crimson.
 
 I'm always happy to discuss new ideas, potential opportunites, and my thoughts
-on the hopes (and false promises) of machine learning in biochemistry. You can
+on the hopes (and misconceptions) of machine learning in biochemistry. You can
 contact me at samlg [at] mit [dot] edu.
