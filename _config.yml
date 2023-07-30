@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Samuel Goldman"
   avatar           : "profile.png"
-  bio              : "Computational molecular discovery & design"
+  bio              : "" #Computational molecular discovery & design"
   location         : #"Cambridge, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
