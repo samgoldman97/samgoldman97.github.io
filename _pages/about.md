@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in [Computational and Systems Biology](https://csbphd.mit.edu/welcome-mit-computational-and-systems-biology-phd-program-csb) at MIT, where I am advised by [Professor Connor Coley](https://coley.mit.edu/) and supported by the Takeda AI for Healthcare Fellowship. While I am broadly excited about AI/ML for molecular design, my PhD work has focused on computational methods to discover disease-relevant or bioactive metabolites from metabolomics data.
+I am a post-doctoral researcher at MIT in the Coley Lab, after recently defending my PhD in the same lab in January 2024. I completed my PhD in [Computational and Systems Biology](https://csbphd.mit.edu/welcome-mit-computational-and-systems-biology-phd-program-csb) under the supervision of [Professor Connor Coley](https://coley.mit.edu/), where I was also fortunate to be supported by the Takeda AI for Healthcare Fellowship. While I am broadly excited about AI/ML for molecular design, my academic work has focused on computational methods to discover disease-relevant or bioactive metabolites from metabolomics data.
 
 I am also interested in biotechnology entrepreneurship and investing, which I
-am exploring as a part-time fellow at [MPM BioImpact](https://mpmcapital.com/).
+explored as a part-time fellow at [MPM BioImpact](https://mpmcapital.com/) for a year from February 2023 to February 2024.
 I was previously Co-President of the [MIT Biotechnology Group](https://biotech.mit.edu/) (MBG) and co-founded/managed a
 student-led accelerator [Nucleate Eco](https://nucleate.xyz/activator/) that supported biotechnologies addressing sustainability challenges.
 
