@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I currently work as an Associate at MPM BioImpact, a Boston-based biotechnology investment firm. 
+I currently work as an Associate at MPM BioImpact, a Boston-based biotechnology investment firm.   
 
 Prior to this role, I completed my Ph.D. at MIT in [Computational and Systems Biology](https://csbphd.mit.edu/welcome-mit-computational-and-systems-biology-phd-program-csb) under the supervision of [Professor Connor Coley](https://coley.mit.edu/), where I was also supported by the Takeda AI for Healthcare Fellowship. While I am broadly excited about AI/ML for molecular design, my academic work focused on computational methods to discover disease-relevant or bioactive metabolites from metabolomics data. I also explored the biotechnology industry through various student-led groups including the [MIT Biotechnology Group](https://biotech.mit.edu/) (MBG) and [Nucleate Eco](https://nucleate.xyz/activator/). 
 
