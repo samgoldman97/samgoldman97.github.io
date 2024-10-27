@@ -15,4 +15,4 @@ Prior to this role, I completed my Ph.D. at MIT in [Computational and Systems Bi
 Prior to MIT, I studied computer science at Harvard, wrote an undergraduate thesis in systems biology, was a Divsion I wrestler, and spent a brief stint as a summer investment fellow at
 [Activant Capital](https://www.activantcapital.com/).
 
-Outside of work, I enjoy running, ice cream, fantasy/sci-fi (audio)books, and following NCAA wrestling.
+Outside of work, I enjoy running, ice cream, fantasy/sci-fi (audio)books, and following NCAA wrestling.   
